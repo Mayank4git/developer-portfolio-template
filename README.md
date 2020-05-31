@@ -3,3 +3,55 @@ An open source project for creating end-end templates for portfolio websites for
 
 <a href="./Contributing.md"><h2 align= "center"><b> How to Get Started ?</b></h2>
 <p align="center"><img width=50% src="https://media.giphy.com/media/l0IyjiXOXTX6Yemsg/giphy.gif"></p>
+  
+  This project is expected to be done in the following phases:
+  
+  1) Front-end Developement:
+  
+  Skills:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Materialize/Bootstrap
+  
+  **React/Next.Js can be used for development in another branch**
+  
+  Sections: (By default dark mode or theme)
+  
+  - [ ] Landing Page/Home Page
+  - [ ] Splash Screen
+  - [ ] Navigation Bar
+  - [ ] Footer
+  - [ ] Projects Page
+  - [ ] Expereince Page
+  - [ ] Education Page
+  - [ ] Blog Page (This is to be done using fastpages separately and is optional)
+  - [ ] Contact/Get in Touch Page
+ 
+  
+2) Enhancements:
+
+- [ ] Improvement of UI/UX
+- [ ] Search Engine Optimization
+- [ ] Optimize Assets
+- [ ] Faster Loading of Page
+- [ ] Dynamic Loading of content using JSON Injection
+- [ ] robot.txt
+- [ ] Google Analytics Integration
+
+3) Back-end development:
+
+Skills:
+- Flask/NodeJS
+- Firebase 
+
+
+- [ ] Routing of pages
+- [ ] Autoresponder
+- [ ] Newsletter
+- [ ] Payement Option for Donation
+
+4) Project Documentation
+
+MkDocs or Docusaurus is prefered
+
