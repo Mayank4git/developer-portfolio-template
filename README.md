@@ -54,5 +54,30 @@ Skills:
 
 4) Project Documentation
 
-MkDocs or Docusaurus is prefered
+**MkDocs or Docusaurus is prefered
+
+All work related to this is to be initially done at gh-pages branch
+
+Purpose of the Documentation is ensure anyone without any knowledge of web development can make use of this project template, modify the content and host it successfully
+
+- [ ] Landing Page
+- [ ] Side Nav Bar
+- [ ] How to Get Started ( Include Hosting Details)
+- [ ] How to modify essential contents for the following:
+   - [ ] Home Page
+   - [ ] Projects Page
+   - [ ] Experience Page
+   - [ ] Education Page
+- [ ] Project Maintiance Page
+- [ ] Open Source License and Code of Conduct
+
+**) Miscellaneous:
+
+- Wikis ( Regarding Certain aspects of design and development used for the web pages)
+- ReadMe ( Make it more appealing with better content,pics,assets,gifs,badges)
+- Issue Templates
+- Pull Request Templates
+- GitHub Actions 
+
+
 
