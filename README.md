@@ -78,6 +78,7 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 - Issue Templates
 - Pull Request Templates
 - GitHub Actions 
+- Setup Search Option
 
 
 
